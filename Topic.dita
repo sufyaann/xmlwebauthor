@@ -5,6 +5,7 @@
     <body>
 
         <p>This is  JJ file</p>
-        <p>This is the new paragraph</p>
+        <p><?oxy_comment_start author="sufyaann" timestamp="20210622T103300+0000" comment="A comment by Sufyan"?>This
+            is the new paragraph<?oxy_comment_end?></p>
     </body>
 </topic>
