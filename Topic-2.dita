@@ -3,6 +3,8 @@
 <topic id="topic_hmb_nwt_y4b">
     <title>Dita topic</title>
     <body>
-        <p>a simple topic</p>
+        <p><?oxy_comment_start author="sufyaann" timestamp="20210728T121854+0000" comment="THis is new git comment"?>a
+            simple topic<?oxy_comment_end?></p>
+        <p>this is new paragraph</p>
     </body>
 </topic>
